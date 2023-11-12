@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sparsh3007
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and machine learning
-- 💞️ I’m looking to collaborate on hackathons/competitions related to data sicience.
+- 👀 I’m interested in Software engineering (Backend development)
+- 🌱 I’m currently learning Java and backend development along with a little frontend.
+- 💞️ I’m looking to collaborate on hackathons/competitions related to software engineering.
 - 📫 How to reach me sparsh.raj30@gmail.com
 
 <!---
