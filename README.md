@@ -3,7 +3,7 @@
 - 🌱 I’m a backend developer and my tech stacks are Java, Spring Boot and AWS.
 - 🌱 I'm also learning Machine Learning Engineering and Python.
 - 💞️ I’m looking to collaborate on hackathons/competitions related to software engineering and machine learning engineering.
-- 📫 How to reach me sparsh.raj30@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/spa-raj/ 
 
 <!---
 sparsh3007/sparsh3007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
