@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a final year MS in software engineering student at Woolf University.  <br>💻 I'm passionate about backend software engineering and open source projects.  <br>☕ I have experience building applications in Java and the Spring Boot tech stack.  <br>🚀 Currently, I am learning Golang and DevOps through contributing in open source projects. <br>🎯 I am also participating in an LLM hackathon hosted by Datatalks.club
+🎓 I am a final year MS in software engineering student at Woolf University.  <br>:briefcase: I am currently a mentee at the LFX open source mentorship program for the OpenCost project (open source project of IBM Kubecost) <br>💻 I'm passionate about backend software engineering and open source projects.  <br>☕ I have experience building applications in Java and the Spring Boot tech stack.  <br>🚀 Currently, I am learning Golang and DevOps through contributing in open source projects. <br>🎯 I am also participating in an LLM hackathon hosted by Datatalks.club
 
 
 ## 🌐 Socials:
