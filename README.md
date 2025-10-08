@@ -22,8 +22,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=spa-raj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=spa-raj&icon=2&color=2)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=spa-raj.spa-raj&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
   ## 💰 You can sponsor me by giving a tip
   <a href="https://github.com/sponsors/spa-raj">
