@@ -17,15 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=spa-raj&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=4)
 
-## 🏆 Hacktoberfest Trophies
-<a href="https://cloud.layer5.io/user/4f8d9973-3f42-4e5a-98be-4fbb69d3ed48?tab=badges&badge=hacktoberfest25" title="Hacktoberfest 2025 Contributor">
-  <img
-    src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest2025-badge.png"
-    alt="Hacktoberfest 2025 Contributor"
-    height="120"
-  />
-</a>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
