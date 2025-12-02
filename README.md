@@ -10,7 +10,7 @@
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spa-raj&theme=github_dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=spa-raj&theme=dark&hide_border=false)
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=spa-raj&layout=compact&theme=dark&hide_border=false](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spa-raj&theme=github_dark)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=spa-raj&layout=compact&theme=dark&hide_border=false](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spa-raj&theme=github_dark))
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spa-raj&theme=github_dark)
 
 
