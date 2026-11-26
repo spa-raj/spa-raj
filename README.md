@@ -1,37 +1,38 @@
-# 💫 About Me:
-🎓 I am a final year MS in software engineering student at Woolf University.  <br>:briefcase: I am a graduated mentee at the LFX open source mentorship program 2025 term 3 for the OpenCost project (open source project of IBM Kubecost) <br>💻 I'm passionate about backend software engineering and open source projects.  <br>☕ I have experience building applications in Java and the Spring Boot tech stack.  <br>🚀 Currently, I am learning Golang and DevOps through contributing in open source projects.
+### Hi, I'm Sparsh 👋
 
+**Backend & Platform Engineer** · Java / Spring Boot · Kafka · Kubernetes (CKAD) · AWS EKS · Terraform · Go
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spa-raj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spar_raj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev-raja-007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparsh.raj30@gmail.com) 
+I build backend systems and the platforms they run on: Spring Boot microservices, Kafka event streams, and Kubernetes on AWS, all provisioned as code. CNCF **OpenCost** contributor (LFX Mentorship '25), MS in Computer Science (4.0 GPA). Lately also building with LLMs and RAG.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spa-raj&theme=github_dark)
-![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=spa-raj&theme=dark&hide_border=false)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spa-raj&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spa-raj&theme=github_dark)
+📍 Bengaluru · open to Backend, Platform and AI engineering roles · [sparshraj.me](https://sparshraj.me)
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=spa-raj&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=4)
+### 🔨 What I've built
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**[VibeVault](https://github.com/spa-raj/vibevault)** · 6 Spring Boot 4 / Java 21 microservices on AWS EKS
+- Choreography-based **Saga over Kafka** (KRaft) with idempotent consumers; Razorpay payments with HMAC-verified webhooks; OAuth2 auth server (Spring Security)
+- Moved 2M-product search from MySQL `LIKE` (100% failure at 15 concurrent users) to **OpenSearch**: 99.3% success at 27 ms p50 under k6 load
+- [6 Terraform modules](https://github.com/spa-raj/vibevault-infra) (VPC, EKS, RDS, ECR, Secrets Manager + KMS, OpenSearch), Helm per service, Kong gateway, GitHub Actions with OIDC (no static AWS keys) · 114 PRs, 55 E2E tests
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spa-raj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**[OpenCost](https://github.com/opencost/opencost)** (CNCF Sandbox) · LFX Mentorship, Fall 2025 · Go
+- Built the foundation of **KubeModel** (Data Model 2.0): UID tracking across 61+ metrics and 30+ Prometheus queries, so recreated pods no longer get misattributed cost
+- 14 merged PRs across opencost, [opencost-integration-tests](https://github.com/opencost/opencost-integration-tests) and opencost-website · wrote [Introducing KubeModel](https://opencost.io/blog/introducing-kubemodel) · poster at Open Source Summit India 2026 (Mumbai)
 
+**[PDF Whisperer](https://github.com/spa-raj/pdf-whisperer)** · RAG over PDFs with cross-encoder reranking and page citations · [live demo on Hugging Face](https://huggingface.co/spaces/spa-raj/pdf-whisperer)
 
+**[CartIQ](https://github.com/spa-raj/cartIQ-backend)** · AI shopping assistant: Spring Boot + Confluent Kafka/Flink + Gemini RAG on Google Cloud (Confluent hackathon)
 
+**[Family Lock](https://github.com/spa-raj/family-lock)** · Android device-owner app: forced family DNS, VPN/bypass blocking, no off switch
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=spa-raj.spa-raj&left_color=red&right_color=green&left_text=Hello%20Visitors)
+---
 
-  ## 💰 You can sponsor me by giving a tip
-  <a href="https://github.com/sponsors/spa-raj">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me on GitHub" />
-</a>
+### 🧰 Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend** · Java, Spring Boot, Spring Security, Go, Python, Kafka, MySQL, PostgreSQL, MongoDB, Redis, OpenSearch\
+**Platform** · Kubernetes, Helm, Docker, Terraform, AWS (EKS, RDS, ECR, KMS), GCP, GitHub Actions, Prometheus\
+**AI** · RAG, LangChain, ChromaDB, rerankers, Gemini / OpenAI APIs
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/spa-raj) [![Website](https://img.shields.io/badge/sparshraj.me-222?logo=googlechrome&logoColor=white)](https://sparshraj.me) [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/spar_raj) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparsh.raj30@gmail.com)
